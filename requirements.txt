@@ -1,0 +1,16 @@
+# DSC 2026 SWE track: identical in every task. Do not add or change versions;
+# the grader runs Python 3.12.15 with exactly these packages and the network off.
+fastapi==0.141.1
+starlette==1.6.0
+pydantic==2.13.5
+sqlalchemy==2.0.54
+alembic==1.19.2
+httpx==0.28.1
+anyio==4.15.1
+uvicorn==0.53.0
+pytest==9.1.1
+pytest-timeout==2.4.0
+hypothesis==6.168.3
+jsonschema==4.26.0
+prometheus-client==0.26.0
+pyyaml==6.0.3
